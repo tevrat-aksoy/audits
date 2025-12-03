@@ -31,7 +31,7 @@ Contest Highlights
 
 | Date             | Contest                                                                       | Platform                                                                                 | Findings | Rank | Language |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|:-------:| -------:|
-|Jul 2025 | Summer | Sherlock | 1 Medium  |  7  |  Solidity| 
+|Sep 2025 | Summer | Sherlock | 1 Medium  |  7  |  Solidity| 
 |Jul 2025 | Mellow | Sherlock | 4 High 2 Medium  | 🏆 1  |  Solidity| 
 |May 2025 | Lend | Sherlock | 16 High 1 Medium  | 7 |  Solidity| 
 |May 2025 | Aquarius | Cantina | 1 High 5 Medium  | 🏆  1 |  Rust| 
