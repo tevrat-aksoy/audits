@@ -6,6 +6,9 @@ https://audits.sherlock.xyz/watson/t.aksoy
 ## Private Audits
 | Date             | Protocol    | Findings    | Language |
 |:-------------------|:-------------|:-------------| -------:|
+| June 2026  | Raac| 6 Medium, 4 Low  |Solidity | 
+| May 2026  | Raac| 1 High, 2 Medium  |Solidity | 
+| May 2026  | Biconomy|  4 Low  |Solidity | 
 | Apr 2026  | LiFi| 1 Critical, 1 High, 4 Medium  |Rust (Solana) | 
 | Apr 2026  | RAAC| 1 High, 1 Medium  |Solidity | 
 | Mar 2026  | Bio| 2 Medium, 2 Low  |Solidity | 
